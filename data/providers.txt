@@ -1,0 +1,19 @@
+10.0.2.2-Local
+10.0.2.255-Local
+10.0.2.3-Local
+172.16.0.2-Local
+172.16.1.1-Local
+172.16.255.255-Multicast
+172.29.0.255-Multicast
+192.168.106.255-Multicast
+192.168.248.255-Multicast
+192.168.254.255-Multicast
+213.133.100.100-Hetzner Standard
+213.133.98.98-Hetzner Standard
+4.2.2.2-Level 3 Communications
+68.87.71.230-Comcast
+68.87.73.246-Comcast
+75.75.75.75-Comcast
+75.75.76.76-Comcast
+8.8.4.4-Google
+8.8.8.8-Google
